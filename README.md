@@ -1,6 +1,6 @@
 # peing-質問箱-のクローン(OSS)
 [クローン質問箱](https://qubox.org)の現状はこんな感じです。
-![質問箱](https://s3-us-west-1.amazonaws.com/4chat/sread/FireShot+Capture+058+-+qubox+-+%E8%B3%AA%E5%95%8F%E7%AE%B1+-+qubox.org.png "質問箱")
+![質問箱](https://raw.githubusercontent.com/seiyatakahashi/peing-questionbox-clone/master/public/demo.png "質問箱")
 
 ## 質問箱とは
 みなさん[peing-質問箱-](https://peing.net/)をご存知ですか?twitterで2017年ごろから流行っている匿名で質問ができるwebサービスのことです。このサービスは個人開発をしているせせり氏が開発したサービスで公開１ヶ月で1億アクセスに達したそうです。
